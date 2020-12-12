@@ -102,6 +102,9 @@ module.exports = {
         theme_color: `purple`,
         display: `standalone`,
         icon: `src/images/myAvatar.png`,
+        icon_options: {
+          purpose: `any maskable`,
+        },
       },
     },
     {
