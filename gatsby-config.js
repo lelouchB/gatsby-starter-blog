@@ -6,7 +6,7 @@ module.exports = {
       name: `Ashutosh Kumar Singh`,
     },
     description: `Gatsby Starter Blog built with MDX and Styled Components.`,
-    image: `/mac.jpg`,
+    image: `/cover.png`,
     siteUrl: `https://lelouchb-gatsby-starter-blog.netlify.app/`,
     social: {
       twitter: `@noharashutosh`,
