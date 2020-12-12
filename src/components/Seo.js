@@ -86,7 +86,7 @@ export const SEO = ({ description, lang, meta, title }) => {
         },
         {
           name: `twitter:image`,
-          content: image,
+          content: `${siteUrl}${image}`,
         },
       ].concat(meta)}
     />
