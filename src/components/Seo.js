@@ -28,6 +28,7 @@ export const SEO = ({ description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  const siteUrl = site.siteMetadata?.siteUrl
   const image = site.siteMetadata?.image
 
   return (
@@ -65,7 +66,7 @@ export const SEO = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:image`,
-          content: image,
+          content: `${siteUrl}${image}`,
         },
         {
           name: `twitter:card`,
