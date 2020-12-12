@@ -39,6 +39,7 @@ export const Bio = () => {
       <Img
         fixed={data.imageSharp.fixed}
         style={{ borderRadius: "50%", left: "0", top: "0" }}
+        alt="Avatar"
       />
       <h2>
         Hey Stranger <GiDove />
