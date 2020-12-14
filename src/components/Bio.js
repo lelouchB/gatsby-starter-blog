@@ -44,7 +44,6 @@ export const Bio = () => {
       <h2>
         Hey Stranger <GiDove />
       </h2>
-
       <br />
       <p>
         My name is <b>Ashutosh</b>! I'm a JavaScript Developer & Technical

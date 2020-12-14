@@ -30,6 +30,7 @@ const NavWrapper = styled.nav`
 export const Nav = () => {
   return (
     <NavWrapper>
+      {/* Replace with your Name */}
       <Link to="/">Ashutosh K Singh</Link>
       <FaRegMoon />
     </NavWrapper>
