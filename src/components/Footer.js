@@ -109,7 +109,7 @@ export const Footer = () => {
           <a
             href={instagramUrl}
             target="_blank"
-            title="Contact Captain Nemo at Instagram"
+            title="Contact Ashutosh on Instagram"
             rel="noopener noreferrer"
           >
             <FaInstagram />
