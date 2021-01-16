@@ -1,6 +1,6 @@
 {
     "name": "gatsby-starter-blog",
-    "private": true,
+    "private": false,
     "description": "Gatsby Starter Blog built with MDX and Styled Components.",
     "version": "0.1.0",
     "author": "Ashutosh K Singh",
